@@ -1,6 +1,8 @@
-# SerpAPI News Fact-Check Demo
+# SerpAPI News Fact-Check Demo (https://serpapifactcheck.streamlit.app/)
 
 A small demo project that uses the [SerpAPI](https://serpapi.com) Python library to check how widely a claim or headline is reported by mainstream news outlets. Ships as both a CLI and a Streamlit web UI.
+
+You can access the fact checker on streamlit here: https://serpapifactcheck.streamlit.app/
 
 > **Note:** This tool measures _coverage_, not _truth_. Wide mainstream coverage is strong evidence a story is real, but the heuristic cannot detect nuance like "reputable outlets reported the claim and then debunked it." Always read the sources.
 
